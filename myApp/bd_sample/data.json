@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "5794b887ff39057d14c98821",
+    "index": 0,
+    "guid": "9e9ba2a4-e368-4d4d-9ae7-4ddec28159f9",
+    "isActive": true,
+    "balance": "$2,944.53",
+    "picture": "http://lifeglobe.net/x/entry/6130/1a-0.jpg",
+    "age": 33,
+    "eyeColor": "brown",
+    "name": "Priscilla Mitchell",
+    "gender": "female",
+    "company": "COMDOM",
+    "email": "priscillamitchell@comdom.com",
+    "phone": "+1 (968) 565-2759",
+    "address": "618 Woodruff Avenue, Cressey, Kansas, 4795",
+    "about": "Cillum mollit enim tempor ad quis in ut consequat voluptate nostrud in sunt velit. Enim aliqua adipisicing minim ut non excepteur esse magna dolore eu. Proident reprehenderit irure nulla amet minim commodo Lorem ex deserunt non laborum ut. Tempor enim dolore Lorem amet dolor eu ex ut est cillum eiusmod laborum nulla. Id laborum ex magna sunt incididunt eiusmod ullamco ipsum fugiat fugiat consequat fugiat minim.\r\n",
+    "registered": "2016-01-16T11:39:40 -02:00",
+    "latitude": -75.057268,
+    "longitude": -67.267592,
+    "tags": [
+      "sunt",
+      "ea",
+      "in",
+      "nostrud",
+      "excepteur",
+      "excepteur",
+      "consequat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Morales Harris"
+      },
+      {
+        "id": 1,
+        "name": "Doris Morrison"
+      },
+      {
+        "id": 2,
+        "name": "Mccormick Carney"
+      }
+    ],
+    "greeting": "Hello, Priscilla Mitchell! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5794b8877c55ae6bee8d9d11",
+    "index": 3,
+    "guid": "394f42ce-4482-40e7-8096-af4b43d62c03",
+    "isActive": false,
+    "balance": "$2,592.09",
+    "picture": "http://goo.gl/lry1gK",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": "Strickland Acosta",
+    "gender": "male",
+    "company": "ENERFORCE",
+    "email": "stricklandacosta@enerforce.com",
+    "phone": "+1 (904) 459-3057",
+    "address": "974 Lake Place, Maury, Mississippi, 5813",
+    "about": "Labore elit fugiat sunt sint deserunt qui nisi consectetur. Do pariatur ex ex exercitation aliqua tempor ipsum. Officia pariatur officia exercitation dolore eiusmod incididunt quis ut consequat dolore dolor voluptate sunt sunt. Ullamco sunt tempor laboris et dolor officia amet ut elit qui irure ipsum voluptate. Qui ex ut duis eu irure tempor ipsum sint nulla officia eu ea aliquip. Excepteur tempor ipsum nisi id laborum do esse magna. Deserunt consectetur labore veniam cillum.\r\n",
+    "registered": "2016-01-06T06:36:29 -02:00",
+    "latitude": 68.693013,
+    "longitude": 27.524867,
+    "tags": [
+      "magna",
+      "fugiat",
+      "enim",
+      "mollit",
+      "aliqua",
+      "labore",
+      "elit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Guerrero Gilbert"
+      },
+      {
+        "id": 1,
+        "name": "Queen Hurst"
+      },
+      {
+        "id": 2,
+        "name": "Manuela Lucas"
+      }
+    ],
+    "greeting": "Hello, Strickland Acosta! You have 3 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5794b8873b53cea58fb0d668",
+    "index": 4,
+    "guid": "f7c4c778-494e-4303-90ee-29bedbc3a6bd",
+    "isActive": false,
+    "balance": "$3,539.67",
+    "picture": "http://goo.gl/Jj6nX9",
+    "age": 20,
+    "eyeColor": "brown",
+    "name": "Angela Bender",
+    "gender": "female",
+    "company": "TERRAGO",
+    "email": "angelabender@terrago.com",
+    "phone": "+1 (954) 527-3261",
+    "address": "948 Madoc Avenue, Whitestone, Puerto Rico, 5256",
+    "about": "Enim occaecat cupidatat anim culpa anim exercitation amet irure. Laboris eiusmod dolore veniam veniam nostrud amet ullamco. Ad consectetur amet exercitation mollit mollit reprehenderit ut dolore labore eiusmod sint culpa ea.\r\n",
+    "registered": "2014-05-20T09:35:22 -03:00",
+    "latitude": 40.969529,
+    "longitude": 97.366629,
+    "tags": [
+      "laborum",
+      "nostrud",
+      "dolor",
+      "consectetur",
+      "nulla",
+      "veniam",
+      "aliquip"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Fisher Shields"
+      },
+      {
+        "id": 1,
+        "name": "Leach Sweeney"
+      },
+      {
+        "id": 2,
+        "name": "Alfreda Finch"
+      }
+    ],
+    "greeting": "Hello, Angela Bender! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "about": "This is the only built-in middleware function in Express. It serves static files and is based on serve-static.\r\nThe root argument refers to the root directory from which the static assets are to be served. The file to serve will be determined by combining req.url with the provided root directory. When a file is not found, instead of sending a 404 response, this module will instead call next() to move on to the next middleware, allowing for stacking and fall-backs.\r\nThe following table describes the properties of the options object.",
+    "email": "raiaf@gmail.com",
+    "name": "Viktoriya Krainyk",
+    "picture": "https://goo.gl/UDLFrM",
+    "_id": "c1ejenhouki0ms4i",
+    "index": 5
+  }
+]

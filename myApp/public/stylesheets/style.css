@@ -1,0 +1,71 @@
+.header-text, .header-logo {
+	display: inline-block;
+}
+
+.header-logo img {
+	height: 150px;
+	float: left;
+	padding: 15px;
+}
+
+.user-item {
+	min-height: 400px;
+	overflow: hidden;
+}
+
+#backbutton {
+	height: 30px;
+	width: 90px;
+	border-radius: 50px;
+	background-color: lightgrey;
+	text-align: center;
+	line-height: 2.1;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	position: absolute;
+	left: 450px;
+}
+
+#newuser {
+	padding: 20px;
+	float: right;
+	height: 150px;
+}
+
+.cross {
+	opacity: 0;
+	margin: 10px;
+	width: 10px;
+	height: 10px;
+}
+
+.info {
+	padding-top: auto;
+	padding-left: 40px;
+	padding-right: 400px;
+}
+
+.image {
+	margin: 0 20px;
+	width: 85px;
+	float: left;
+}
+
+.span {
+	width: 90px;
+	color: red;
+	font-style: italic;
+	float: left;
+	overflow: hidden;
+}
+
+.about {
+	overflow: hidden;
+}
+
+.back {
+	float: right;
+}
+
+
